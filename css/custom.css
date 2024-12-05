@@ -1,0 +1,168 @@
+/* CSS Document */
+
+@font-face {
+ font-family: Raleway;
+ src: url(../webfont/Raleway-Regular.eot); /* EOT file for IE */
+}
+
+@font-face {
+ font-family: Raleway;
+ src: url(../webfont/Raleway-Regular.ttf); /* TTF file for CSS3 browsers */
+}
+
+body {
+	padding-top: 55px;
+	font-family: "Raleway", sans-serif;
+	font-size: 13px;
+	letter-spacing: 1px;
+}
+
+a {
+	color: #888888;
+}
+
+a:hover, a:visited {
+	color: #50a4e4;
+}
+
+.navbar-default {
+	height: 55px;
+	background-color: #ffffff;
+	border-color: #2575b4;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: #888888;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #50a4e4;
+  text-decoration: underline;
+}
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #888888;
+}
+
+.navbar-right {
+	padding-top: 5px;
+	font-size: 13px;
+}
+
+.jumbotron-home {
+	height: 500px;
+	color: inherit;
+	background: url(../image/home-bg.jpg) no-repeat center top;
+	background-size: cover;
+}
+
+.jumbotron-homeblue {
+	padding-top: 42px;
+	padding-bottom: 30px;
+	background-color: #2575b4;
+	text-align: center;
+}
+
+.jumbotron-white {
+	padding-top: 65px;
+	padding-bottom: 30px;
+	background-color: #ffffff;
+	text-align: center;
+}
+
+.jumbotron-blue {
+	padding-top: 65px;
+	padding-bottom: 30px;
+	background-color: #2575b4;
+	text-align: center;
+}
+
+.jumbotron-gray {
+	padding-top: 65px;
+	padding-bottom: 90px;
+	background-color: #f8f6f2;
+	text-align: center;
+}
+
+h1.home {
+	padding-top: 105px;
+	font-size: 1.9em;
+	color: #ffffff;	
+	text-align: center;
+	text-shadow: 12px 2px 20px #2575b4;
+}
+
+h1.black {
+	font-size: 1.9em;
+	color: #333333;
+}
+
+h1.white {
+	font-size: 1.9em;
+	color: #ffffff;
+}
+
+h2.blue {
+	font-size: 1.5em;
+	color: #2575b4;
+}
+
+p.white {
+	color: #ffffff;
+	padding: 0px 0px 0px 0px;
+}
+
+p.black {
+	color: #333333;
+	padding: 0px 0px 0px 0px;
+}
+
+p.blue {
+	color: #2575b4;
+	padding: 0px 0px 0px 0px;
+}
+
+strong.white {
+	color: #ffffff;
+}
+
+li.white {
+	color: #ffffff;
+}
+
+strong.blue {
+	color: #2575b4;
+}
+
+.form-control {
+	font-size: 13px;
+	letter-spacing: 1px;
+}
+
+.btn {
+	font-size: 13px;
+	letter-spacing: 1px;
+}
+
+.spacing1 {
+	padding-top: 55px;
+}
+
+.spacing2 {
+	padding-top: 30px;
+}
+
+.spacing3 {
+	padding-top: 15px;
+}
+
+.spacing4 {
+	padding-top: 20px;
+}
+
+.spacing5 {
+	padding-top: 40px;
+}
