@@ -7,7 +7,7 @@
    <img src="https://img.shields.io/badge/Version-1.0.0-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Version 1.0.0">
    <img src="https://img.shields.io/badge/Lang-HTML%20|%20CSS%20|%20JavaScript%20|%20PHP-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Lang-HTML|CSS|JavaScript|PHP">
    <img src="https://img.shields.io/badge/Framework-Bootstrap%20v3.3.1-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Framework-Bootstrap v3.3.1">
-   <img src="https://img.shields.io/badge/Database-MySQL-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Database-MySQL">
+   <img src="https://img.shields.io/badge/Database-MySQL%20v4.3.10-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Database-MySQL v4.3.10">
    <img src="https://img.shields.io/badge/NDA-NO-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="NDA-NO">
    <img src="https://img.shields.io/badge/Last%20Update-02.03.2015-%2300416a?logoColor=white&labelColor=%2300416a&color=%2324292e&textColor=white" alt="Last Update DD.MM.YYYY">
 </p>
@@ -61,6 +61,8 @@ phpMyAdmin Version information: 5.1.2
 ```
 **Framework and Tools**
 ```
+- PHP: v5.6
+- MySQL: v4.3.10
 - CSS Framework: Bootstrap v3.3.1
 - Icons: Font Awesome 4.3.0
 - Font: Raleway
@@ -120,10 +122,10 @@ About Us                   #
 ``` -->
 
 ## ![SECTION Roadmap](https://custom-icon-badges.demolab.com/badge/-Roadmap-2471AE?logo=tasklist&logoColor=white&labelColor=2471AE)
-See the [open issues](https://github.com/thenocturnaldevgypsy-io/bucket-sdswebsite/issues?q=is%3Aopen+is%3Aissue) and the [project](https://github.com/users/thenocturnaldevgypsy-io/projects/25)'s Backlog  for the list of proposed features (and known issues).
+See the [open issues](https://github.com/thenocturnaldevgypsy-io/bucket-sdswebsite/issues) and [backlog](https://github.com/thenocturnaldevgypsy-io/bucket-sdswebsite/milestones) for the list of proposed features (and known issues).
 
 ## ![SECTION Changelog](https://custom-icon-badges.demolab.com/badge/-Changelog-2471AE?logo=log&logoColor=white&labelColor=2471AE)
 Chronological list of updates and changes to the project.
 | Version | Date | Commit | Type | Description |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 1.0.0 | 05.12.2024 | [07cbf12](https://github.com/thenocturnaldevgypsy-io/bucket-sdswebsite/commit/07cbf1239ad775107156472d5a5b93ae2199bde2) for [PR 2](https://github.com/thenocturnaldevgypsy-io/bucket-sdswebsite/pull/2) | refactor | - Deploy the old codes to this repo.<br>- Updated `.gitignore` for future repo maintenance requirements.<br>- Used     [md-templates/Templates-MD-Work/README.md](https://github.com/thenocturnaldevgypsy-io/md-templates/blob/master/Templates-MD-Work/README.md) template for this repo and updated `README.md` for the changes. Commented the unnecessary sections temporarily. |
+| 1.0.0 | 05.12.2024 | [07cbf12](https://github.com/thenocturnaldevgypsy-io/bucket-sdswebsite/commit/07cbf1239ad775107156472d5a5b93ae2199bde2) for [PR 2](https://github.com/thenocturnaldevgypsy-io/bucket-sdswebsite/pull/2) | refactor | - Deploy the old codes to this repo.<br>- Updated `.gitignore` for future repo maintenance requirements.<br>- Used [md-templates/Templates-MD-Work/README.md](https://github.com/thenocturnaldevgypsy-io/md-templates/blob/master/Templates-MD-Work/README.md) template for this repo and updated `README.md` for the changes. Commented the unnecessary sections temporarily. |
